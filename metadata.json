@@ -1,0 +1,7 @@
+{
+  "name": "條碼掃描小幫手",
+  "description": "掃描條碼並自動處理尾碼C，支援匯出Excel",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
